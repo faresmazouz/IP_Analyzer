@@ -11,4 +11,4 @@ Petit projet python qui utilise l'API ipinfo.io pour analyser une adresse IP.
     - récupération des infos géolocalisées (pays, ville, région)
     - résolution ASN et opérateur
     - validation du format IP
-    - sortie JSON et console# IP_Analyzer
+    - sortie JSON et console
